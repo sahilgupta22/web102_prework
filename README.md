@@ -23,7 +23,7 @@ Here's a walkthrough of implemented features:
 <img src='https://github.com/sahilgupta22/web102_prework/blob/main/Sahil%20Gupta%20-%20Prework%20Walkthrough%20-%20Imgur.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Imgur and Xbox Game Bar
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -31,11 +31,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some trouble with getting the buttons to link to the correct containers to display the correct games, but through trial and error I was able to remediate the issue.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Sahil Gupta]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
