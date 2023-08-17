@@ -19,7 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/SZRhVvE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://github.com/sahilgupta22/web102_prework/blob/main/Sahil%20Gupta%20-%20Prework%20Walkthrough%20-%20Imgur.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
